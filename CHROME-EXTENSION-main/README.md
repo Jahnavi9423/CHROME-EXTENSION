@@ -2,15 +2,15 @@
 
 *COMPANY*: CODETECH IT SOLUTIONS
 
-*NAME*: MANTRI KRISHNA MAHITHA
+*NAME*: MAMIDI JAHNAVI
 
-*INTERN ID*: CT04DN1040
+*INTERN ID*: CT04DZ1374
 
 *DOMAIN*: FULL STACK WEB DEVELOPMENT
 
 *DURATION*: 4 WEEKS
 
-*MENTOR*: NEELA SANTOSH
+*MENTOR*: NEELA SANTHOSH KUMAR
 
 The Chrome Extension for Time Tracking and Productivity Analytics is a browser-based tool designed to monitor and analyze the time a user spends on various websites throughout their day. The main goal of this application is to help users become more conscious of how they use their time online and to promote better productivity habits. Once the extension is installed and activated in the Chrome browser, it begins to track user activity silently in the background. It monitors which tab is active, identifies the domain of the current website, and calculates the amount of time spent on that site. When the user switches tabs, minimizes the browser, or changes focus to a different window, the extension stops the timer for the previously active tab and records the duration spent. This process continues automatically, logging time data for each domain visited.
 
